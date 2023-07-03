@@ -1,0 +1,3 @@
+[submodule "Plugins/Reztly"]
+	path = Plugins/Reztly
+	url = https://github.com/MatthewDZane/Reztly.git
